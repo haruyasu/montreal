@@ -239,7 +239,7 @@ body {
 .story__pictures {
   background-color: #c4821f;
   grid-column: full-start / col-end 4;
-  background-image: linear-gradient(rgba(196, 130, 31, 0.2), rgba(196, 130, 31, 0.1)), url(../img/story.png);
+  background-image: linear-gradient(rgba(196, 130, 31, 0.05), rgba(196, 130, 31, 0.05)), url(../img/story.png);
   background-size: cover;
   display: grid;
   grid-template-rows: repeat(6, 1fr);
